@@ -23,7 +23,7 @@ Social Project, I made by using flutter, FireBase, FireBase Authentication, Fire
 
 https://user-images.githubusercontent.com/97626133/151193490-1f0e8b94-89b5-486c-acc6-ceaad8e9e67a.mp4
 
-##Screen shots
+## Screen shots
 
 ![Screenshot_2022-01-26-15-48-31-980_com example social_app](https://user-images.githubusercontent.com/97626133/151193944-02b3f66e-a7f6-4319-8753-5f254a41a2ac.jpg)
 ![Screenshot_2022-01-26-15-48-35-900_com example social_app](https://user-images.githubusercontent.com/97626133/151193959-f6deaf3e-00ed-48c9-9806-56f2b1e52ce7.jpg)
