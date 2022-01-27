@@ -33,5 +33,7 @@ https://user-images.githubusercontent.com/97626133/151193490-1f0e8b94-89b5-486c-
 
 ![Social Screens 4](https://user-images.githubusercontent.com/97626133/151372307-970fe545-ef59-43a2-a476-f5b0659a3929.jpg)
 
+![Social Screens 6](https://user-images.githubusercontent.com/97626133/151376952-4d1ff1e5-4eb0-4e3b-b48a-dca78e097923.jpg)
+
 ![Social Screens 5](https://user-images.githubusercontent.com/97626133/151372332-6ed9cac5-99db-4a99-b1b4-699fc932834e.jpg)
 
