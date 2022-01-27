@@ -25,13 +25,9 @@ https://user-images.githubusercontent.com/97626133/151193490-1f0e8b94-89b5-486c-
 
 ## Screen shots
 
-![Screenshot_2022-01-26-15-48-31-980_com example social_app](https://user-images.githubusercontent.com/97626133/151193944-02b3f66e-a7f6-4319-8753-5f254a41a2ac.jpg)
-![Screenshot_2022-01-26-15-48-35-900_com example social_app](https://user-images.githubusercontent.com/97626133/151193959-f6deaf3e-00ed-48c9-9806-56f2b1e52ce7.jpg)
-![Screenshot_2022-01-26-15-48-48-020_com example social_app](https://user-images.githubusercontent.com/97626133/151193965-447ffcd4-919a-4524-9467-3f7cbf1bcb8b.jpg)
-![Screenshot_2022-01-26-15-49-18-617_com example social_app](https://user-images.githubusercontent.com/97626133/151193982-442de88f-236e-43f8-b421-5e4ef9d8c959.jpg)
-![Screenshot_2022-01-26-15-49-31-279_com example social_app](https://user-images.githubusercontent.com/97626133/151193994-26fc2db5-6ccf-478b-95f2-96d91afe52a3.jpg)
-![Screenshot_2022-01-26-15-49-33-063_com example social_app](https://user-images.githubusercontent.com/97626133/151193999-34491e13-0d72-4951-bf6e-13571495f266.jpg)
-![Screenshot_2022-01-26-15-49-48-268_com example social_app](https://user-images.githubusercontent.com/97626133/151194001-23dd2486-c20a-44b0-a11d-1e4d3386dd86.jpg)
-![Screenshot_2022-01-26-15-50-05-735_com example social_app](https://user-images.githubusercontent.com/97626133/151194007-eccea5b2-f3bc-4842-9e1a-8edef1b3c31a.jpg)
-![Screenshot_2022-01-26-15-50-13-635_com example social_app](https://user-images.githubusercontent.com/97626133/151194031-bf4daead-e001-433b-a3a0-4edecf6171e6.jpg)
-![Screenshot_2022-01-26-15-50-20-820_com example social_app](https://user-images.githubusercontent.com/97626133/151194054-c8fe2a50-0047-452a-9c99-29542287aebe.jpg)
+![Social Screens](https://user-images.githubusercontent.com/97626133/151372178-4f6a289c-b87f-41fc-be9c-87ebfd5f6eb0.jpg)
+![Social Screens 2](https://user-images.githubusercontent.com/97626133/151372232-7e2658bd-b777-4bc7-9e22-ae08ea64de33.jpg)
+![Social Screens 3](https://user-images.githubusercontent.com/97626133/151372275-6fd11f46-f5f8-408d-b8d4-8be033db0115.jpg)
+![Social Screens 4](https://user-images.githubusercontent.com/97626133/151372307-970fe545-ef59-43a2-a476-f5b0659a3929.jpg)
+![Social Screens 5](https://user-images.githubusercontent.com/97626133/151372332-6ed9cac5-99db-4a99-b1b4-699fc932834e.jpg)
+
